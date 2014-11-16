@@ -1,6 +1,0 @@
-[submodule "dep/libical"]
-	path = dep/libical
-	url = https://github.com/libical/libical.git
-[submodule "dep/mongoose"]
-	path = dep/mongoose
-	url = https://github.com/cesanta/mongoose.git
